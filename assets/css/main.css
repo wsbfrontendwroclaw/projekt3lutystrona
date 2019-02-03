@@ -3487,12 +3487,13 @@ input, select, textarea {
 			color: inherit;
 			cursor: pointer;
 			display: block;
-			font-size: 0.9em;
+			font-size: 5px;
 			padding: 0.625em 0;
+			color: blue;
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #f56a6a;
+				color: yellow;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
