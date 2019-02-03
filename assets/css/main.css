@@ -2309,7 +2309,9 @@ input, select, textarea {
 				}
 
 			ul.contact li a {
-				color: inherit;
+				
+				color: blue;
+
 			}
 
 /* Pagination */
